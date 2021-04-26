@@ -1,4 +1,7 @@
-# About Me
+---
+layout: default-layout.njk
+title: About Me
+---
 
 
 My name is John Wakahiu. 
