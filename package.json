@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-demo",
+  "version": "1.0.0",
+  "description": "This is a blog powered by 11ty SSG and hosted on Netlify platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwaka/eleventy-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwaka/eleventy-demo/issues"
+  },
+  "homepage": "https://github.com/johnwaka/eleventy-demo#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
